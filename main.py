@@ -130,7 +130,11 @@ class App(ctk.CTk):
         
         self.textbox = ctk.CTkTextbox(self.main_frame, font=("Helvetica", 14), wrap="word")
         self.textbox.grid(row=1, column=0, sticky="nsew", pady=(0, 20))
-        self.textbox.insert("1.0", "Paste your text here.")
+        self.textbox.insert("1.0", """[am_adam] This is a test of my voice changing capabilities [/]
+[af_sarah] from a young and energetic woman [/]
+[em_santa] to an old man with wisdom in his voice [/]
+[ff_siwis] I can even do some accents, as sweet as a French baguette [/]
+[zf_xiaoxiao] or as tasty as a steaming hot ramen bowl [/]""")
         
         self.ctrl_frame = ctk.CTkFrame(self.main_frame, fg_color="transparent")
         self.ctrl_frame.grid(row=2, column=0, sticky="ew")
