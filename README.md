@@ -11,7 +11,13 @@ A high-performance, real-time Text-to-Speech (TTS) application built with Python
 
 ## Demo
 
-[▶️ **Click here to listen to the Demo.wav**](./Demo.wav)
+https://github.com/user/repo/assets/demo.wav (Replace this if you have a direct URL, otherwise the tag below is the best attempt for relative paths)
+
+<div align="left">
+  <video src="Demo.wav" controls width="400"></video>
+  <br>
+  <a href="Demo.wav">📥 Download Demo.wav</a>
+</div>
 
 **Voice Sample Script:**
 ```text
