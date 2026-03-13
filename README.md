@@ -9,6 +9,21 @@ A high-performance, real-time Text-to-Speech (TTS) application built with Python
 - **Multiple Voices:** Support for all Kokoro v1.0 voices (e.g., `af_sarah`, `am_michael`).
 - **Self-Healing Setup:** Automatically detects missing models or libraries and fixes the environment.
 
+## Demo
+
+Listen to the voice changing capabilities of Kokoro TTS:
+
+<audio controls src="Demo.wav"></audio>
+
+**Voice Sample Script:**
+```text
+[am_adam] This is a test of my voice changing capabilities [/]
+[af_sarah] from a young and energetic woman [/]
+[em_santa] to an old man with wisdom in his voice [/]
+[ff_siwis] I can even do some accents, as sweet as a French baguette [/]
+[zf_xiaoxiao] or as tasty as a steaming hot ramen bowl [/]
+```
+
 ---
 
 ## Getting Started (Manual Run)
