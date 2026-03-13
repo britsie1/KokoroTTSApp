@@ -24,7 +24,7 @@ If you have Python installed, you can run the application directly from the sour
 
 **Note:** On the first launch, a "Setup" window will appear. It will automatically:
 - Install required libraries (via `pip`).
-- Download the ~130MB model files (`kokoro-v1.0.onnx` and `voices-v1.0.bin`).
+- Download the ~310MB model files (`kokoro-v1.0.onnx` and `voices-v1.0.bin`).
 - Once finished, the main GUI will open automatically.
 
 ---
