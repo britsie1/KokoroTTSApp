@@ -11,6 +11,8 @@ A high-performance, real-time Text-to-Speech (TTS) application built with Python
 
 ## Demo
 
+<audio src="https://github.com/britsie1/KokoroTTSApp/blob/main/Demo.wav" />
+
 <div align="left">
   <video src="https://github.com/britsie1/KokoroTTSApp/blob/main/Demo.mp4" controls width="400"></video>
   <br>
