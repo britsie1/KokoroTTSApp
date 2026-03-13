@@ -11,9 +11,7 @@ A high-performance, real-time Text-to-Speech (TTS) application built with Python
 
 ## Demo
 
-Listen to the voice changing capabilities of Kokoro TTS:
-
-<audio controls src="Demo.wav"></audio>
+[▶️ **Click here to listen to the Demo.wav**](./Demo.wav)
 
 **Voice Sample Script:**
 ```text
