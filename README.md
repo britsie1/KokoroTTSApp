@@ -12,9 +12,9 @@ A high-performance, real-time Text-to-Speech (TTS) application built with Python
 ## Demo
 
 <div align="left">
-  <video src="https://github.com/britsie1/KokoroTTSApp/blob/main/Demo.wav" controls width="400"></video>
+  <video src="https://github.com/britsie1/KokoroTTSApp/blob/main/Demo.mp4" controls width="400"></video>
   <br>
-  <a href="https://github.com/britsie1/KokoroTTSApp/blob/main/Demo.wav">📥 Download Demo.wav</a>
+  <a href="https://github.com/britsie1/KokoroTTSApp/blob/main/Demo.mp4">📥 Download Demo.mp4</a>
 </div>
 
 **Voice Sample Script:**
